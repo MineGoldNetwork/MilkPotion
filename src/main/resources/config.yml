@@ -1,0 +1,20 @@
+commands:
+  NO_PLAYER: 'You can only use this command at console.'
+  NO_CONSOLE: 'You must be a player to execute this command.'
+  COMMAND_ERROR: 'An unknown error has occurred.'
+  COMMAND_NUMBER: 'Expected a number, received string instead.'
+  COMMAND_NO_PERMISSION: 'You do not have permission.'
+potions:
+  MILK_POTION_NAME: '&f&lSplash Potion of Milk'
+  MILK_POTION_LORE:
+    - ' '
+    - '&cPotion Effect Remover'
+    - ' '
+    - '&9&lRARE ITEM'
+  MILK_POTION_RGB_COLOR:
+    RED: 255
+    GREEN: 255
+    BLUE: 255
+messages:
+  TARGET_REMOVED_EFFECTS: '&e&l** WARNING ** &c&lYOUR POTION EFFECTS WERE REMOVED'
+  RECEIVE_POTION: '&e&lYou receive in your inventory a Milk potion'
