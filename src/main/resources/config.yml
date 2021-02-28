@@ -17,4 +17,7 @@ potions:
     BLUE: 255
 messages:
   TARGET_REMOVED_EFFECTS: '&e&l** WARNING ** &c&lYOUR POTION EFFECTS WERE REMOVED'
+  TARGET_REMOVED_BAD_EFFECTS: '&e&l** WARNING ** &c&lYOUR BAD POTION EFFECTS WERE REMOVED'
   RECEIVE_POTION: '&e&lYou receive in your inventory a Milk potion'
+options:
+  remove-only-debuff: false

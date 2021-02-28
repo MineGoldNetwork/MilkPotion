@@ -48,7 +48,7 @@ public final class MilkPotion extends JavaPlugin {
                 ReloadConfigCommand.class
         );
 
-        getServer().getPluginManager().registerEvents(new MilkPotionListener(), this);
+        new MilkPotionListener();
     }
 
     @Override
